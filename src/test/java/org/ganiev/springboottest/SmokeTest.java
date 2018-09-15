@@ -1,4 +1,4 @@
-package hello;
+package org.ganiev.springboottest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

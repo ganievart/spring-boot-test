@@ -1,4 +1,4 @@
-package hello;
+package org.ganiev.springboottest;
 
 
 import org.springframework.stereotype.Controller;
